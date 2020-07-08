@@ -23,6 +23,7 @@ public class AutowireCandidateTest {
 
         SetterBean.IService service = context.getBean(SetterBean.IService.class); //@2
         System.out.println(service);
+
     }
 
 }

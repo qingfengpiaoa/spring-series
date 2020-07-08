@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8305e7-816f-4051-b097-2165d6e4bd36" name="Default Changelist" comment="" />
+    <list default="true" id="9d8305e7-816f-4051-b097-2165d6e4bd36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dep4eIdZpeYQ3kjj3BOSynv7xd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -142,7 +150,7 @@
       <workItem from="1592795226194" duration="8449000" />
       <workItem from="1593568680464" duration="461000" />
       <workItem from="1593589961520" duration="6104000" />
-      <workItem from="1593657533081" duration="14564000" />
+      <workItem from="1593657533081" duration="15059000" />
     </task>
     <servers />
   </component>
